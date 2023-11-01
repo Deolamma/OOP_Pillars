@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.AssemblyInfo.cs
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OopPillars\bin\Debug\net6.0\OopPillars.exe
+C:\Users\HP\source\repos\OopPillars\bin\Debug\net6.0\OopPillars.deps.json
+C:\Users\HP\source\repos\OopPillars\bin\Debug\net6.0\OopPillars.runtimeconfig.json
+C:\Users\HP\source\repos\OopPillars\bin\Debug\net6.0\OopPillars.dll
+C:\Users\HP\source\repos\OopPillars\bin\Debug\net6.0\OopPillars.pdb
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.dll
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\refint\OopPillars.dll
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.pdb
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\OopPillars.genruntimeconfig.cache
+C:\Users\HP\source\repos\OopPillars\obj\Debug\net6.0\ref\OopPillars.dll
